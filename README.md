@@ -75,7 +75,5 @@ See LICENSE file if provided. Default: for educational/non-commercial use.
 
 - Based on coursework and exercises from the Applied Statistics course.
 - Built using open-source Python libraries and Jupyter.
-
-Feel free to modify the description for each notebook to more precisely match their actual content! If you need descriptions based on the actual notebook contents, let me know and I can expand further.
-
+- 
 [1] https://github.com/idj997/Applied_Stats
