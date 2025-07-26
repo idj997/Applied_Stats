@@ -1,5 +1,3 @@
-Certainly! Here’s a README.md tailored for the [idj997/Applied_Stats](https://github.com/idj997/Applied_Stats) repository, based on the files and context visible in your link.
-
 # Applied_Stats
 
 This repository contains coursework and Jupyter Notebooks for an Applied Statistics course. Each notebook demonstrates core techniques and concepts in applied statistics, using Python and common data analysis libraries.
